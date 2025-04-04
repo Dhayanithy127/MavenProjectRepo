@@ -15,6 +15,7 @@ public class OrganizationTest
 	public void createOrgTest()
 	{
 		System.out.println("==============================");
+		
 		System.out.println("Org created");
 	}
 	
@@ -28,6 +29,7 @@ public class OrganizationTest
 	public void deleteOrgTest()
 	{
 		System.out.println("Org deleted");
+		
 		System.out.println("==============================");
 	}
 }
