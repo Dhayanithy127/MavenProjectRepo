@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-02T09:20:40Z" name="Default suite" finished-at="2025-04-02T09:20:40Z" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2025-04-02T09:20:40Z" name="Default test" finished-at="2025-04-02T09:20:40Z" duration-ms="40">
+      <class name="Pac1.OrganizationTest">
+        <test-method signature="createOrgTest()[pri:0, instance:Pac1.OrganizationTest@130e116b]" started-at="2025-04-02T09:20:40Z" name="createOrgTest" finished-at="2025-04-02T09:20:40Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+        <test-method signature="modifyOrgTest()[pri:0, instance:Pac1.OrganizationTest@130e116b]" started-at="2025-04-02T09:20:40Z" name="modifyOrgTest" finished-at="2025-04-02T09:20:40Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyOrgTest -->
+      </class> <!-- Pac1.OrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
