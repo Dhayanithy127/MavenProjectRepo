@@ -20,7 +20,12 @@ public class OrganizationTest
 	@Test
 	public void modifyOrgTest()
 	{
-		System.out.println("Org Modified");
+		System.out.println("Org modified");
 	}
 	
+	@Test
+	public void deleteOrgTest()
+	{
+		System.out.println("Org deleted");
+	}
 }
