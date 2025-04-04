@@ -13,6 +13,7 @@ public class ContactTest
 	@Test
 	public void createContactTest()
 	{
+		System.out.println("==============================");
 		System.out.println("Contact created");
 	}
 	
@@ -26,5 +27,6 @@ public class ContactTest
 	public void deleteContactTest()
 	{
 		System.out.println("Contact deleted");
+		System.out.println("==============================");
 	}
 }
