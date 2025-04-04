@@ -22,13 +22,13 @@ public class ContactTest
 	public void modifyContactTest()
 	{
 		System.out.println("Contact modified");
+		
+		System.out.println("==============================");
 	}
 	
 	@Test
 	public void deleteContactTest()
 	{
 		System.out.println("Contact deleted");
-		
-		System.out.println("==============================");
 	}
 }
